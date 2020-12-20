@@ -9,7 +9,7 @@ using namespace std;
 
 class _24HourTime;
 
-// defination of enun to track AM or PM in 12 hour clock
+// definition of enun to track AM or PM in 12 hour clock
 
 enum AMPM{
 
