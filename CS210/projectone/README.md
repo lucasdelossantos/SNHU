@@ -17,4 +17,13 @@
 - What skills from this project will be particularly transferable to other projects and/or course work?
   - Organizing my thoughts and mapping out code before approaching the actual coding phase
 - How did you make this program maintainable, readable, and adaptable?
-  - By adding some inline comments to explain various declarations, inheritances, and 
+  - By adding some inline comments to explain various declarations, inheritances, and definitions
+
+## How to run code in Terminal 
+### MacOS and Linux only and requires development tools
+
+- git clone repo to your local machine
+- `cd SNHU/CS210/projectone`
+- `g++ <name-to-give-program> projectone.cpp`
+- `./<name-to-give-program>
+
