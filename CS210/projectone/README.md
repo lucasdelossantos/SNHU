@@ -25,5 +25,5 @@
 - git clone repo to your local machine
 - `cd SNHU/CS210/projectone`
 - `g++ <name-to-give-program> projectone.cpp`
-- `./<name-to-give-program>
+- `./<name-to-give-program>`
 
