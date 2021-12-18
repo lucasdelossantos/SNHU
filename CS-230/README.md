@@ -18,6 +18,8 @@ I would give almost everything an overhaul due to missing various parts of the a
 
 ***How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?***
 
-
+I worked to identify the various pros and cons of various options the client could pursue in terms of operating system, deployment solutions, UML creation, development environment, etc. By attaching pros and cons within the realm of the clients needs it gives them information to make a better decision on how to move forward with implementation. 
 
 ***How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?***
+
+I attempted to stay high level to allow for organic conversations and further refinements that would lead to a more fine-tuned, narrow scoped implementation based on various stop gaps that could arise in the planning process. 
