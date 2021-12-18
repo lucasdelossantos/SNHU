@@ -1,4 +1,5 @@
-#CS230: Operating Platforms
+# CS230: Operating Platforms
+
 ***Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?***
 
 The Gaming Room is a software company that produced a game called Draw it or Lose it on the Android platform. The clients wished for the game to be developed on a web platform in order to reach more users. 
